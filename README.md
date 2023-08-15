@@ -27,5 +27,5 @@ This tool is a simplified version of 3DNetMod (Norton et al, Nature Methods 2018
 
 ### Contact ###
 
-* Heidi Norton, heidiknorton88@gmail.com
+* Daniel Emerson, demerson368@gmail.com
 
