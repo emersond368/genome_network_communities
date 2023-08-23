@@ -1,0 +1,5 @@
+"""
+Subpackage containing algorithms
+
+"""
+
